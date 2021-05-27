@@ -1,0 +1,15 @@
+.loadingcontainer {
+  margin-left: -220px;
+}
+
+.newwalletcontainer {
+  flex-direction: column;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: left;
+}
+
+.circlebullet {
+  list-style: circle;
+  margin-top: 8px;
+}
